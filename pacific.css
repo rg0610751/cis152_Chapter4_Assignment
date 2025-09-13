@@ -1,0 +1,47 @@
+/* bgc#fff */
+/* c#fff */
+body {
+    background-color: #fff; 
+    color: #555;
+}
+
+header {
+    /* bgc#002171 */
+    background-color: #002171;
+    color: #fff;
+}
+/* sets the background color of the navigation bar to a light blue */
+nav
+{
+    /* bgc#bbdefb */
+    background-color: #bbdefb;
+    
+}
+/* last task edit the css// margin for ch 6 */
+h1
+{
+    
+    /* mb0 */
+    margin-bottom: 0;
+}
+h2
+{
+    /* c#1976d2 */
+    color: #1976d2;
+
+}
+/* in yurts assignes text color 002171 to the  dt(s): sub headings */
+dt{
+    /* c#002171 */
+    color: #002171;
+}
+address{
+    font-style: normal;
+}
+/* color applied to the resort string in index.html */
+/* find where the .resort word is spnned in the html code and apply the color to the string */
+/*indicated */
+.resort{
+    /* c#1976d2 */
+    color: #1976d2;
+}
